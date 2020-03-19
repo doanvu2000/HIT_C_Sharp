@@ -1,0 +1,5 @@
+D:\Code For Dream\C#\Code\HIT\BTVN_2\BTVN_2\bai3\bin\Debug\bai3.exe.config
+D:\Code For Dream\C#\Code\HIT\BTVN_2\BTVN_2\bai3\bin\Debug\bai3.exe
+D:\Code For Dream\C#\Code\HIT\BTVN_2\BTVN_2\bai3\bin\Debug\bai3.pdb
+D:\Code For Dream\C#\Code\HIT\BTVN_2\BTVN_2\bai3\obj\Debug\bai3.exe
+D:\Code For Dream\C#\Code\HIT\BTVN_2\BTVN_2\bai3\obj\Debug\bai3.pdb
