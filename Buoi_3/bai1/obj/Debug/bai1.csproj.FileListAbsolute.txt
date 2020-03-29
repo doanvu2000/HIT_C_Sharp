@@ -1,0 +1,6 @@
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\bin\Debug\bai1.exe.config
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\bin\Debug\bai1.exe
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\bin\Debug\bai1.pdb
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\obj\Debug\bai1.exe
+D:\Code For Dream\C#\Code\HIT\BTVN_3\bai1\obj\Debug\bai1.pdb
